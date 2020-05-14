@@ -24,7 +24,8 @@ class SpringJenkinsApplicationTests {
 		logger.info("Test Case Executing Sixth.0 log statement");
 		logger.info("Test Case Executing 6.1 v log statement");
 		logger.info("Test Case Executing 6.2 v log statement");
-		assertEquals(true,true);
+		logger.info("Test Case Executing 6.3 v log statement");
+//		assertEquals(true,true);
 	}
 
 }
